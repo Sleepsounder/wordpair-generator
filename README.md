@@ -1,7 +1,7 @@
 # wordpair_generator
 
 This repo is merely following [This Totorial](https://www.youtube.com/watch?v=1gDhl4leEzA)
-A new Flutter project.
+making a new Flutter project.
 
 ## Getting Started
 
