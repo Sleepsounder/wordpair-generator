@@ -1,6 +1,6 @@
 # wordpair_generator
 
-[Followed This Totorial](https://www.youtube.com/watch?v=1gDhl4leEzA)
+This repo is merely following [This Totorial](https://www.youtube.com/watch?v=1gDhl4leEzA)
 A new Flutter project.
 
 ## Getting Started
